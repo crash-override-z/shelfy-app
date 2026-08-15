@@ -1,0 +1,14 @@
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/bin/Debug/net10.0/ShelfyBackend
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/bin/Debug/net10.0/ShelfyBackend.deps.json
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/bin/Debug/net10.0/ShelfyBackend.runtimeconfig.json
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/bin/Debug/net10.0/ShelfyBackend.dll
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/bin/Debug/net10.0/ShelfyBackend.pdb
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.AssemblyInfoInputs.cache
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.AssemblyInfo.cs
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.csproj.CoreCompileInputs.cache
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.dll
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/refint/ShelfyBackend.dll
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.pdb
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ShelfyBackend.genruntimeconfig.cache
+/Users/joshsacrey/Desktop/Shelfy/BACKEND/ShelfyBackend/obj/Debug/net10.0/ref/ShelfyBackend.dll
